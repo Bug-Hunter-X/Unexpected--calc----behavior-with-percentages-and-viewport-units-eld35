@@ -1,0 +1,9 @@
+/* bugSolution.css */
+/*Instead of using calc, we'll use a more reliable method to set the width*/
+.container {
+  width: 50%; /*Set initial width to 50%*/
+  margin-left: 5vw; /*Use margin to add 5vw*/
+  margin-right: 5vw; /*Use margin to add 5vw*/
+}
+/* If needed to achieve same visual effect, the width may need to be adjusted slightly*/
+/*The exact solution will depend on the specific context and desired result*/
